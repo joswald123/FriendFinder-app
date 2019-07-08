@@ -1,8 +1,8 @@
 
 const friends = [
 {
-    "name":"Ahmed",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name":"Sophia",
+    "photo":"https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "scores":[
         5,
         1,
@@ -22,7 +22,7 @@ const friends = [
     "scores":[
         3,
         3,
-        7,
+        1,
         4,
         5,
         1,
@@ -30,6 +30,118 @@ const friends = [
         5,
         4,
         1
+      ]
+  },
+  {
+    "name":"Jackson",
+    "photo":"https://images.pexels.com/photos/937481/pexels-photo-937481.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "scores":[
+        1,
+        3,
+        5,
+        4,
+        5,
+        3,
+        2,
+        2,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Olivia",
+    "photo":"https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "scores":[
+        1,
+        1,
+        2,
+        3,
+        1,
+        5,
+        5,
+        1,
+        1,
+        1
+      ]
+  },
+  {
+    "name":"Liam",
+    "photo":"https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "scores":[
+        3,
+        3,
+        1,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Emma",
+    "photo":"https://images.pexels.com/photos/712513/pexels-photo-712513.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "scores":[
+        3,
+        1,
+        2,
+        5,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Grayson",
+    "photo":"https://images.pexels.com/photos/374044/pexels-photo-374044.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "scores":[
+        5,
+        5,
+        5,
+        1,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Lucas",
+    "photo":"https://images.pexels.com/photos/1212984/pexels-photo-1212984.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "scores":[
+        1,
+        5,
+        5,
+        5,
+        5,
+        5,
+        4,
+        4,
+        5,
+        5
+      ]
+  },
+  {
+    "name":"Amelia",
+    "photo":"https://images.pexels.com/photos/372042/pexels-photo-372042.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "scores":[
+        1,
+        1,
+        5,
+        5,
+        5,
+        1,
+        3,
+        5,
+        3,
+        2
       ]
   }
 ]  
