@@ -25,15 +25,17 @@ We created our own API database (app/data/friends.js) as an array of objects to 
 
 ![](public/images/Api-database.PNG)
 
+![](https://github.com/joswald123/FriendFinder-app/blob/master/public/images/logic-results.PNG)
+
 Overall look of the app:
 
 Home Page:
-![]()
+![](public/images/Homepage.PNG)
 
 Survey Page:
-![]()
+![](public/images/Surveypage.PNG)
 
 Best Match result Page:
-![]()
+![](public/images/Bestmatch-resultpage.PNG)
 
 
