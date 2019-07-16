@@ -12,16 +12,28 @@ express and path.
 
 GET Route to /home & /survey.
 
-image---
+![](public/images/htmlRoutes.PNG)
 
 3. ApiRoutes.js file contains two routes:
 
 GET route with the url /api/friends. This displays a JSON of all possible friends.
 A POST routes /api/friends. This handles incoming survey results and the compatibility logic to get the best match.
 
-image------
+![](public/images/ApiRoutes.PNG)
 
 We created our own API database (app/data/friends.js) as an array of objects to get the best match as a result on the survey.
 
-image---------
+![](public/images/Api-database.PNG)
+
+Overall look of the app:
+
+Home Page:
+![]()
+
+Survey Page:
+![]()
+
+Best Match result Page:
+![]()
+
 
