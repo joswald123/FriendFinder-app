@@ -5,12 +5,8 @@ module.exports = function(app){
     app.get("/api/friends", (req, res) =>{
         res.json(friends)
     });
-    
-
     //  handle the compatibility logic
-
-
-    app.post("/api/friends", (req, res) =>{
+     app.post("/api/friends", (req, res) =>{
         // console.log('quiz submmited')
         // console.log(req.body)
         let scores = req.body.scores
