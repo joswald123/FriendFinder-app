@@ -1,4 +1,4 @@
-Friend Finder - Node and Express Servers
+# Friend Finder - Node and Express Servers
 
 FriendFinder is a basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
 
@@ -39,3 +39,16 @@ Best Match result Page:
 ![](public/images/Bestmatch-resultpage.PNG)
 
 
+________________________________________________________________________________________________
+
+If you want to see the code of this application, follow the steps below:
+
+## Quick Start
+
+1.  Clone the repo ``
+2.  Go to your project folder from your terminal
+3.  Run: `npm install` or `yarn install`
+4.  After install, run: `npm run start` or `yarn start`
+5.  It will open your browser(http://localhost:3000)
+
+Or Live Preview: https://friend-finder-app-website.herokuapp.com/
