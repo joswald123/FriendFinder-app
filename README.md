@@ -45,7 +45,7 @@ If you want to see the code of this application, follow the steps below:
 
 ## Quick Start
 
-1.  Clone the repo ``
+1.  Clone the repo `https://github.com/joswald123/FriendFinder-app.git`
 2.  Go to your project folder from your terminal
 3.  Run: `npm install` or `yarn install`
 4.  After install, run: `npm run start` or `yarn start`
